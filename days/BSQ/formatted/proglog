@@ -1,0 +1,28 @@
+
+
+
+
+
+
+
+find square takes the map
+
+and while our square size is not bigger than the actual map we keep increasing it
+
+we also check if we have exited out the bottom of the map
+
+check to see if the square fits in the map but this should actually be a while loop that keeps incrementing the square each time
+it passes the column check function
+
+and when it does not the square that did not pass statrts to travel the matrix
+
+how does the colum check work?
+
+while our temporary y aka the lines we have moved down is less than the dimention of the square
+
+we keep moving on the x axis untill we hit a block character in wich case we return 0
+
+or we satisfy the specified length of the square and move down a line and increment temp y
+
+when we reach temp y reaches the size of the square to check and we also have confirmed the last x axis we can return succes as the square 
+did not get blocked

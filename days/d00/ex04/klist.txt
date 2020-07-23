@@ -1,0 +1,2 @@
+Feb  4 09:38:47 2020  Feb  4 19:38:47 2020  krbtgt/HIVE.FI@HIVE.FI
+Feb  4 09:38:48 2020  Feb  4 19:38:47 2020  HTTP/student-storage.hive.fi@HIVE.FI
